@@ -1,0 +1,33 @@
+@import "./mainBlogPost.css";
+@import "./footer.css";
+
+body {
+	margin: 2%;
+	background-color: black;
+}
+
+header {
+	margin-left: 17%;
+	font-size: x-large;
+	color: white;
+}
+
+#topic {
+	color: black;
+	font-size: xx-large;
+}
+
+#headerElements {
+	margin: 0%;
+	padding: 1rem;
+	padding-bottom: 2rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	overflow: hidden;
+	background-color: white;
+}
+
+#infoBtn {
+	height: 20px;
+}

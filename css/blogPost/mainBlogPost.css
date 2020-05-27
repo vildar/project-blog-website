@@ -1,0 +1,48 @@
+.blogPostDate {
+	margin-left: 0%;
+	font-size: smaller;
+	color: white;
+	font-style: italic;
+}
+
+.container {
+	padding: 2%;
+	margin-left: 15%;
+	width: 75%;
+	color: white;
+}
+
+@media (min-width: 800px) {
+	body {
+		display: flex;
+		flex-direction: column;
+		font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	}
+}
+
+#rottieImage {
+	border-radius: 2em;
+	width: 65%;
+}
+
+h3{
+	color: white;
+}
+
+#subheading{
+	color: white;
+}
+
+#paragraph {
+	font-size: smaller;
+	color: blue;
+}
+
+#quotation{
+	color: blue;
+}
+
+#conclusion {
+	font-size: medium;
+	margin: 2em;
+}

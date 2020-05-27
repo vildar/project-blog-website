@@ -1,0 +1,29 @@
+footer {
+	text-align: center;
+	font-size: small;
+	font: outline;
+	font-family: cursive;
+	background-color: white;
+	padding: 20px;
+}
+
+#author_info {
+	width: 50%;
+	margin: 2em;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	line-height: 0em;
+	font-size: smaller;
+	margin-left: 25%;
+	overflow: hidden;
+	text-overflow: clip;
+}
+
+#footerHyperlinks {
+	display: grid;
+	grid-template-rows: 50% 50%;
+	grid-template-columns: 50% 50%;
+	align-items: center;
+	margin-left: 35%;
+}

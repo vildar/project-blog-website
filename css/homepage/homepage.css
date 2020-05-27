@@ -1,0 +1,9 @@
+@import "./header.css";
+@import "./main.css";
+@import "./footer.css";
+
+body {
+	margin: 2%;
+	background-color: black;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

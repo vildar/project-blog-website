@@ -1,0 +1,21 @@
+header {
+	text-align: center;
+}
+
+#headerElements {
+	margin: auto;
+	background-color: white;
+	color: black;
+}
+
+#searchBar{
+	float: left;
+	margin-left: 5%;
+}
+
+.navLinks li{
+	float: right;
+	list-style-type: none;
+	width: 100px;
+	color: white;
+}
